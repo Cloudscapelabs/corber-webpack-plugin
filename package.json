@@ -1,0 +1,30 @@
+{
+  "name": "corber-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Webpack plugin to enable cordova plugins during corber livereloads",
+  "homepage": "https://corber.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isleofcode/corber-webpack-plugin"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Alex Blom",
+    "email": "alex@isleofcode.com",
+    "url": "https://isleofcode.com"
+  },
+  "contributors": [
+    {
+      "name": "Aidan Nulman",
+      "email": "aidan@isleofcode.com",
+      "url": "https://isleofcode.com"
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "glob": "^7.1.2"
+  }
+}
